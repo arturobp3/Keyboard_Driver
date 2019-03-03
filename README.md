@@ -39,7 +39,7 @@ sudo ./leds_user
   </div>      
 </p>
 
-# When you don't want to test this driver anymore:
+# When you don't want to test this driver any more:
 
 <b>Remove "chardev_leds.ko" from the Kernel</b>
 ```
