@@ -34,7 +34,7 @@ sudo ./leds_user
 <p>
   <div align="center">
     <img src="https://github.com/arturobp3/Keyboard_Driver/blob/master/img/terminal1.png" width="700" height="400">
-    <img src="https://github.com/arturobp3/Keyboard_Driver/blob/master/img/terminal2.png" width="700" height="400">
+    <img src="https://github.com/arturobp3/Keyboard_Driver/blob/master/img/terminal2.png" width="1000" height="400">
   </div>      
 </p>
 
