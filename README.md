@@ -5,6 +5,7 @@
 Follow these steps to test the driver:
 
 <b>Compile "chardev_leds.c" file </b>
+
 You can use the makefile I provide you. In the directory where files are located, type:
 ```
 make
